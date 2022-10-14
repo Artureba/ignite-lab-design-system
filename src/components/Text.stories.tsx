@@ -10,7 +10,7 @@ export default{
     },
     argTypes: {
         size: {
-            options: ['sn', 'md', 'lg'],
+            options: ['sm', 'md', 'lg'],
             control: {
                 type: 'inline-radio'
             }
