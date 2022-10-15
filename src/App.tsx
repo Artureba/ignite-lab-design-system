@@ -53,7 +53,7 @@ import { Logo } from './Logo';
         <Text size="sm" className="text-gray-200">Lembrar de mim por 30 dias</Text>
       </label>
 
-      <Button type="submit" className="mt-4">Entrar na plataforma</Button>
+      <Button type="submit">Entrar na plataforma</Button>
     </form>
 
     <footer className="flex flex-col items-center gap-4 mt-8">
